@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: get-started/login-software-updates.html 
+keywords: bluexp login, software updates log in 
+summary: Inicie sesión y acceda al servicio de actualizaciones de software de BlueXP . 
+---
+= Acceda a las actualizaciones de software de BlueXP 
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Puede utilizar las actualizaciones del software de BlueXP  iniciando sesión en NetApp BlueXP .
+
+Para iniciar sesión en BlueXP, puede utilizar sus credenciales del sitio de soporte de NetApp o puede registrarse para iniciar sesión en cloud de NetApp con su correo electrónico y una contraseña. link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Obtenga más información sobre cómo iniciar sesión"^].
+
+.Pasos
+. Abra un navegador web y vaya a la link:https://console.bluexp.netapp.com/["Consola BlueXP"^].
++
+Aparece la página de inicio de sesión de NetApp BlueXP.
+
+. Inicie sesión en BlueXP.
+. En el menú de navegación de la izquierda de BlueXP , selecciona *Estado > Actualizaciones de software.*
+

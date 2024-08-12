@@ -1,0 +1,39 @@
+---
+indexpage:
+  title: Documentación sobre actualizaciones de software BlueXP 
+  keywords: software updates, update ONTAP, upgrade ONTAP, ONTAP version, ONTAP 9.8
+  lead: El servicio de actualizaciones de software BlueXP  permite a los clientes
+    agilizar las actualizaciones de ONTAP. Automatiza los procesos de evaluación,
+    planificación y ejecución.
+  tiles:
+  - title: Manos a la obra
+    links:
+    - title: Obtenga más información sobre las actualizaciones de software de BlueXP 
+      url: "/get-started/software-updates.html"
+    - title: Novedades de las actualizaciones de software de BlueXP 
+      url: "/release-notes/whats-new.html"
+    - title: Inicio rápido
+      url: "/get-started/quick-start-ontap-update.html"
+    - title: Requisitos previos
+      url: "/get-started/prerequisites-ontap-update.html"
+    - title: Inicie sesión en las actualizaciones del software de BlueXP 
+      url: "/get-started/login-software-updates.html"
+    - title: PREGUNTAS FRECUENTES
+      url: "/get-started/software-updates-faq.html"
+  - title: Use la eficiencia económica de BlueXP
+    links:
+    - title: Seleccione ONTAP target version 9,10 o posterior
+      url: "/ONTAP/choose-ontap-910-later.html"
+    - title: Corrija y reconozca los bloqueadores de ONTAP
+      url: "/ONTAP/fix-blockers-warnings.html"
+    - title: Completar la actualización del sistema de almacenamiento de ONTAP
+      url: "/ONTAP/update-storage-system.html"
+    - title: Validar el estado de la actualización del sistema de almacenamiento de
+        ONTAP
+      url: "/ONTAP/validate-storage-system-update.html"
+  - title: Blogs y comunidad
+    links:
+    - title: Comunidad de NetApp
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: Seminarios web sobre el cloud
+      url: https://bluexp.netapp.com/events

@@ -1,0 +1,14 @@
+---
+section: get-started
+title: Comience a usar las actualizaciones de ONTAP
+entries:
+- title: Obtenga información sobre las actualizaciones de ONTAP
+  url: "/get-started/software-updates.html"
+- title: Requisitos previos
+  url: "/get-started/prerequisites-ontap-update.html"
+- title: Inicio rápido
+  url: "/get-started/quick-start-ontap-update.html"
+- title: Acceda a las actualizaciones de software de BlueXP 
+  url: "/get-started/login-software-updates.html"
+- title: Preguntas frecuentes
+  url: "/get-started/software-updates-faq.html"
