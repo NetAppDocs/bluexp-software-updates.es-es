@@ -31,7 +31,7 @@ El clúster tarda de 2 a 3 horas en aparecer en la pestaña History. Una vez que
 
 *¿Por qué estoy viendo diferentes pantallas para diferentes actualizaciones? *
 
-Esto se debe a la versión de ONTAP actual y a la falta de disponibilidad del conector BlueXP  para los clústeres. Un conector BlueXP  realiza la actualización de ONTAP en BlueXP  y no requiere que salga de BlueXP  para una actualización. Para obtener información sobre el proceso de actualización de ONTAP para diferentes versiones de ONTAP, consulte link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemas ONTAP compatibles"].
+Esto se debe a la versión de ONTAP actual y a la falta de disponibilidad del conector BlueXP  para los clústeres. Un conector BlueXP  realiza la actualización de ONTAP en BlueXP  y no requiere que salga de BlueXP  para una actualización. Si no dispone de un conector de BlueXP , se le redirigirá a System Manager y se le pedirá volver a introducir las credenciales del clúster de ONTAP. Para obtener información sobre el proceso de actualización de ONTAP para diferentes versiones de ONTAP, consulte link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Sistemas ONTAP compatibles"].
 
 *¿Qué necesito para descubrir clusters?*
 
