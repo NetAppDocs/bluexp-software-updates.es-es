@@ -15,8 +15,8 @@ Comience verificando la preparación de su entorno operativo, el inicio de sesi�
 
 Para usar las actualizaciones de software de BlueXP , debe asegurarse de que su entorno cumpla todos los requisitos.
 
-* Debe estar disponible una cuenta válida de BlueXP .
-* El entorno de trabajo se configura en BlueXP .
+* Hay una organización de BlueXP  disponible.
+* Un entorno de trabajo se configura en BlueXP .
 * El Privileges de administrador está disponible para realizar una actualización de software mediante System Manager.
 * Las credenciales de administrador están disponibles para el clúster deseado mientras se ejecuta la actualización de software.
 * Todos los nodos del clúster envían datos AutoSupport.
