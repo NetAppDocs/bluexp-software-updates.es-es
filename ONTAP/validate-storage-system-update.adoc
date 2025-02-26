@@ -11,7 +11,7 @@ summary: Valide el estado de la actualización de ONTAP para decidir los siguien
 
 
 [role="lead"]
-Una vez completado el proceso de actualización de ONTAP, debe comprobar el estado de la actualización de ONTAP.
+Puede usar las actualizaciones de software de BlueXP  para validar el estado de la actualización de ONTAP.
 
 .Pasos
 . En el menú de navegación de la izquierda de BlueXP , selecciona *Estado > Actualizaciones de software*.

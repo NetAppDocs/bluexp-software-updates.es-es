@@ -4,22 +4,22 @@ permalink: ONTAP/update-storage-system.html
 keywords: update ontap storage system 
 summary: Actualice su sistema de almacenamiento de ONTAP para aprovechar las funciones nuevas y mejoradas. 
 ---
-= Completar la actualización del sistema de almacenamiento de ONTAP
+= Inicie la actualización de ONTAP con las actualizaciones del software de BlueXP 
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Una vez que haya identificado la versión de destino de ONTAP, solucionado y confirmado todos los bloqueadores, ahora puede completar la actualización de su sistema de almacenamiento de ONTAP.
+Una vez que haya identificado la versión de destino de ONTAP, solucionado y confirmado todos los bloqueadores, ahora podrá iniciar la actualización de su sistema de almacenamiento de ONTAP.
 
 .Pasos
 . En el menú de navegación de la izquierda de BlueXP , selecciona *Estado > Actualizaciones de software*.
 +
 Se muestra la lista de clústeres que necesitan actualizar el software.
 
-. Identificar la versión de destino de ONTAP para el sistema de almacenamiento. Para obtener más información sobre la identificación de la versión de destino de ONTAP, consulte link:../ONTAP/choose-ontap-910-later.html["Seleccione ONTAP target version 9,10 o posterior"].
-. Corrija y reconozca los bloqueadores de ONTAP. Para obtener más información sobre la fijación de bloqueadores, consulte link:../ONTAP/fix-blockers-warnings.html["Corrija y reconozca los bloqueadores de ONTAP"].
+. Identificar la versión de destino de ONTAP para el sistema de almacenamiento. Para obtener más información sobre la identificación de la versión de destino de ONTAP, consulte link:../ONTAP/choose-ontap-910-later.html["Compare las versiones de ONTAP para comprender los beneficios y riesgos mediante las actualizaciones de software de BlueXP "].
+. Corrija y reconozca los bloqueadores de ONTAP. Para obtener más información sobre la fijación de bloqueadores, consulte link:../ONTAP/fix-blockers-warnings.html["Corrija todos los bloqueadores que utilizan las actualizaciones de software de BlueXP  antes de una actualización de ONTAP"].
 . Lea y acepte el contrato de licencia para usuario final.
 +
 Espere a que se recupere la imagen ONTAP.
