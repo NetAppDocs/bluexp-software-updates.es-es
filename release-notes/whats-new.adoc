@@ -15,6 +15,16 @@ Descubra las novedades de las actualizaciones de software de BlueXP .
 
 
 
+== 02 de abril de 2025
+
+
+
+=== Reducción de riesgos
+
+En la sección de resumen de las actualizaciones de software de BlueXP , ahora puede ver el número total de riesgos que se pueden mitigar mediante la actualización del sistema operativo. Esto permite a los usuarios evaluar las mejoras de seguridad y estabilidad en su base de instalación.
+
+
+
 == 07 de agosto de 2024
 
 

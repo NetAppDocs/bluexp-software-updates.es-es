@@ -1,0 +1,9 @@
+= Reducción de riesgos
+:allow-uri-read: 
+
+
+
+
+=== Reducción de riesgos
+
+En la sección de resumen de las actualizaciones de software de BlueXP , ahora puede ver el número total de riesgos que se pueden mitigar mediante la actualización del sistema operativo. Esto permite a los usuarios evaluar las mejoras de seguridad y estabilidad en su base de instalación.
