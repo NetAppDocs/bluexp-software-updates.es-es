@@ -13,6 +13,9 @@ summary: Corrija los bloqueadores de ONTAP y reconozca las advertencias que le i
 [role="lead"]
 Después de identificar la versión de destino de ONTAP para el sistema de almacenamiento de ONTAP, debe corregir y reconocer todos los bloqueadores y revisar las advertencias antes de actualizar el sistema de almacenamiento de ONTAP.
 
+.Rol de BlueXP requerido:
+Administrador de la organización, administrador de carpetas o proyectos, administrador de almacenamiento o especialista en estado del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Obtenga más información sobre los roles de acceso de BlueXP."^]
+
 La corrección y el reconocimiento de todos los bloqueadores es obligatorio y garantiza un proceso de actualización de software sin fisuras.
 
 .Pasos
@@ -21,19 +24,19 @@ La corrección y el reconocimiento de todos los bloqueadores es obligatorio y ga
 Se muestra la lista de clústeres que necesitan actualizar el software.
 
 . Identificar la versión de destino de ONTAP para el sistema de almacenamiento. Para obtener más información sobre la identificación de la versión de destino de ONTAP, consulte link:../ONTAP/choose-ontap-910-later.html["Compare las versiones de ONTAP para comprender los beneficios y riesgos mediante las actualizaciones de software de BlueXP "].
-. Una vez que haya decidido la versión de destino de ONTAP, haga clic en *Preparar para la actualización* para iniciar el proceso de actualización.
+. Una vez que haya decidido la versión de destino de ONTAP , seleccione *Preparar para actualización* para iniciar el proceso de actualización.
 +
 Se muestra la lista de bloqueadores y advertencias.
 
 . Seleccione el bloqueador para ver las instrucciones para corregir el bloqueador.
 . Realice manualmente los pasos proporcionados para corregir el bloqueador.
-. Seleccione los bloqueadores que se han corregido y haga clic en *Reconocer seleccionado* para confirmar que los bloqueadores se han corregido.
+. Seleccione los bloqueadores que se han corregido y seleccione *Reconocer seleccionados* para reconocer que esos bloqueadores se han corregido.
 
 
 
 NOTE: Debe corregir y confirmar todos los bloqueadores para continuar con la actualización.
 
-. Haga clic en la pestaña *Advertencias* para revisar las advertencias antes de continuar con la actualización de software.
-. Haga clic en la pestaña *Reconocer* para ver los bloqueadores que se han corregido.
-. Haga clic en *Continuar para actualizar* para continuar con el proceso de actualización.
+. Seleccione la pestaña *Advertencias* para revisar las advertencias antes de continuar con la actualización del software.
+. Seleccione la pestaña *Reconocer* para ver los bloqueadores que se han solucionado.
+. Seleccione *Continuar actualizando* para continuar con el proceso de actualización.
 

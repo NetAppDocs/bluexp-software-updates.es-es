@@ -36,3 +36,5 @@ Esto se debe a la versión de ONTAP actual y a la falta de disponibilidad del co
 *¿Qué necesito para descubrir clusters?*
 
 Para realizar una actualización de ONTAP para el clúster deseado, necesita la IP del clúster de ONTAP y las credenciales de administrador para conectarse al clúster. Como parte de la detección del clúster, debe proporcionar estos detalles para que la actualización de ONTAP se pueda ejecutar automáticamente.
+
+También debe tener uno de los siguientes roles de acceso: administrador de organización, administrador de carpeta o proyecto, o administrador de almacenamiento.

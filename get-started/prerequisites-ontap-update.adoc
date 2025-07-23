@@ -13,11 +13,12 @@ summary: Revise los requisitos previos y los requisitos antes de continuar con l
 [role="lead"]
 Debe revisar los requisitos previos y los requisitos antes de continuar con la actualización de ONTAP. Puede utilizar las actualizaciones de software BlueXP  para verificar la disponibilidad de su entorno operativo, inicio de sesión, acceso a red y navegador web.
 
+.Rol de BlueXP requerido:
+Administrador de la organización, administrador de carpeta o proyecto, administrador de almacenamiento, visor de almacenamiento o especialista en estado del sistema. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Obtenga más información sobre los roles de acceso de BlueXP."^]
+
 Para usar las actualizaciones de software de BlueXP , debe asegurarse de que su entorno cumpla todos los requisitos.
 
-* Hay una organización de BlueXP  disponible.
 * Un entorno de trabajo se configura en BlueXP .
-* El Privileges de administrador está disponible para realizar una actualización de software mediante System Manager.
 * Las credenciales de administrador están disponibles para el clúster deseado mientras se ejecuta la actualización de software.
 * Todos los nodos del clúster envían datos AutoSupport.
 * Todos los nodos deben ejecutarse en ONTAP 9,10 o versiones posteriores.
